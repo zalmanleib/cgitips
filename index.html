@@ -22,23 +22,15 @@
             background-color: #007bff;
             padding: 10px;
         }
-        .header {
-    display: flex;
-    align-items: center;
-    background-color: #007bff;
-    padding: 10px;
-}
-
-.header-logo {
-    max-height: 50px; /* Adjust the logo size */
-    margin-right: 10px;
-}
-
-.header-text {
-    color: white; /* Text color */
-    font-size: 24px; /* Adjust the font size */
-    font-weight: bold; /* Make the text bold */
-}
+        .header-logo {
+            max-height: 50px; /* Adjust the logo size */
+            margin-right: 10px;
+        }
+        .header-text {
+            color: white; /* Text color */
+            font-size: 24px; /* Adjust the font size */
+            font-weight: bold; /* Make the text bold */
+        }
     </style>
 </head>
 <body>
@@ -83,7 +75,7 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
         const data = {
-            "3rd": {
+    "3rd": {
         "bunk": {
             "Bunk Alef": [
                 { "name": "Elimelech Ende", "cashapp": "https://cash.app/$Chaia", "zelle": "", "preferred": "CashApp" },
@@ -255,51 +247,94 @@
             }
         };
 
-        document.addEventListener('DOMContentLoaded', function() {
-            const gradeSelect = document.getElementById('grade');
-            const categorySelect = document.getElementById('category');
-            const selectionSelect = document.getElementById('selection');
-            const paymentInfoDiv = document.getElementById('paymentInfo');
+        $(document).ready(function() {
+            $('#grade').change(function() {
+                const grade = $(this).val();
+                const categorySelect = $('#category');
+                const selectionSelect = $('#selection');
 
-            gradeSelect.addEventListener('change', function() {
-                const grade = this.value;
-                const categories = Object.keys(data[grade] || {});
-                // Enable and populate category dropdown based on the selected grade
-                categorySelect.disabled = categories.length === 0;
-                categorySelect.innerHTML = '<option value="">Select Category</option>';
-                categories.forEach(category => {
-                    categorySelect.innerHTML += `<option value="${category}">${category.replace(/([A-Z])/g, ' $1').toUpperCase()}</option>`;
-                });
-                selectionSelect.innerHTML = '<option value="">Select</option>';
-                paymentInfoDiv.innerHTML = '';
-            });
+                categorySelect.prop('disabled', true).empty().append('<option value="">Select Category</option>');
+                selectionSelect.prop('disabled', true).empty().append('<option value="">Select</option>');
 
-            categorySelect.addEventListener('change', function() {
-                const grade = gradeSelect.value;
-                const category = this.value;
-                const selections = data[grade] && data[grade][category] || [];
-                // Enable and populate selection dropdown based on the selected category
-                selectionSelect.disabled = selections.length === 0;
-                selectionSelect.innerHTML = '<option value="">Select</option>';
-                selections.forEach(item => {
-                    selectionSelect.innerHTML += `<option value="${item.name}">${item.name}</option>`;
-                });
-                paymentInfoDiv.innerHTML = '';
-            });
+                if (grade && data[grade]) {
+                    categorySelect.prop('disabled', false);
 
-            selectionSelect.addEventListener('change', function() {
-                const grade = gradeSelect.value;
-                const category = categorySelect.value;
-                const selectedName = this.value;
-                const item = (data[grade] && data[grade][category] || []).find(i => i.name === selectedName);
-                if (item) {
-                    paymentInfoDiv.innerHTML = `
-                        <h4>Payment Info for ${item.name}</h4>
-                        <p><strong>CashApp:</strong> <a href="${item.cashapp}" target="_blank">${item.cashapp || 'N/A'}</a></p>
-                        <p><strong>Zelle:</strong> ${item.zelle || 'N/A'}</p>
-                        <p><strong>Preferred:</strong> ${item.preferred || 'N/A'}</p>
-                    `;
+                    const categories = Object.keys(data[grade]);
+                    categories.forEach(category => {
+                        categorySelect.append(`<option value="${category}">${category.charAt(0).toUpperCase() + category.slice(1)}</option>`);
+                    });
                 }
+            });
+
+            $('#category').change(function() {
+                const grade = $('#grade').val();
+                const category = $(this).val();
+                const selectionSelect = $('#selection');
+
+                selectionSelect.prop('disabled', true).empty().append('<option value="">Select</option>');
+
+                if (grade && category && data[grade][category]) {
+                    selectionSelect.prop('disabled', false);
+
+                    if (category === 'bunk') {
+                        const bunks = Object.keys(data[grade][category]);
+                        bunks.forEach(bunk => {
+                            selectionSelect.append(`<option value="${bunk}">${bunk}</option>`);
+                        });
+                    } else {
+                        data[grade][category].forEach((person, index) => {
+                            selectionSelect.append(`<option value="${index}">${person.name}</option>`);
+                        });
+                    }
+                }
+            });
+
+            $('#selection').change(function() {
+                const grade = $('#grade').val();
+                const category = $('#category').val();
+                const selection = $(this).val();
+
+                if (grade && category && selection) {
+                    let paymentInfoHtml = '';
+                    if (category === 'bunk') {
+                        const counselors = data[grade][category][selection];
+                        counselors.forEach(counselor => {
+                            paymentInfoHtml += `
+                                <div>
+                                    <p><strong>Name:</strong> ${counselor.name}</p>
+                                    <p><strong>Preferred Payment:</strong> ${counselor.preferred}</p>
+                                    <p><strong>CashApp:</strong> <a href="${counselor.cashapp}" target="_blank">${counselor.cashapp}</a></p>
+                                    <p><strong>Zelle:</strong> ${counselor.zelle}</p>
+                                    <button class="btn btn-primary btn-copy" data-zelle="${counselor.zelle}">Copy Zelle</button>
+                                    <hr>
+                                </div>
+                            `;
+                        });
+                    } else {
+                        const person = data[grade][category][selection];
+                        paymentInfoHtml = `
+                            <div>
+                                <p><strong>Name:</strong> ${person.name}</p>
+                                <p><strong>Preferred Payment:</strong> ${person.preferred}</p>
+                                <p><strong>CashApp:</strong> <a href="${person.cashapp}" target="_blank">${person.cashapp}</a></p>
+                                <p><strong>Zelle:</strong> ${person.zelle}</p>
+                                <button class="btn btn-primary btn-copy" data-zelle="${person.zelle}">Copy Zelle</button>
+                            </div>
+                        `;
+                    }
+
+                    $('#paymentInfo').html(paymentInfoHtml);
+                }
+            });
+
+            $(document).on('click', '.btn-copy', function() {
+                const zelleInfo = $(this).data('zelle');
+                const tempInput = $('<input>');
+                $('body').append(tempInput);
+                tempInput.val(zelleInfo).select();
+                document.execCommand('copy');
+                tempInput.remove();
+                alert('Zelle information copied to clipboard');
             });
         });
     </script>
