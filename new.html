@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CGI Florida Boys Tips</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    body {
+      background-image: url('https://cgiflorida.com/boys/wp-content/uploads/sites/2/2024/01/300830915_438645198302380_1592379339037434224_n-1536x1024.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #1a1a1a;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .header {
+      background-color: #003366;
+      color: #ffd700;
+      padding: 1rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+
+    .header-logo {
+      max-height: 60px;
+    }
+
+    .header-text h1 {
+      margin: 0;
+      font-weight: 700;
+      font-size: 1.8rem;
+    }
+
+    .header-text small {
+      font-size: 0.9rem;
+      font-weight: 600;
+    }
+
+.container {
+  flex-grow: 1;
+  max-width: 720px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.6); /* more transparent */
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(6px); /* optional: soft blur behind */
+  -webkit-backdrop-filter: blur(6px); /* Safari support */
+}
+
+
+    label {
+      font-weight: 600;
+      color: #003366;
+    }
+
+    select.form-select {
+      border: 2px solid #003366;
+      border-radius: 8px;
+    }
+
+    .btn-copy {
+      background-color: #ffd700;
+      color: #003366;
+      border: none;
+      padding: 6px 12px;
+      font-weight: 600;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+
+    footer {
+      background: #003366;
+      color: #ffd700;
+      text-align: center;
+      padding: 1rem 0;
+      font-weight: 600;
+    }
+
+    @media (max-width: 600px) {
+      .header {
+        flex-direction: column;
+        text-align: center;
+      }
+      .header-logo {
+        margin-bottom: 0.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="header">
+    <img src="https://cgiflorida.com/wp-content/uploads/2024/03/%D7%9E%D7%97%D7%A0%D7%94-%D7%92%D7%9F-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%9C%D7%95%D7%A8%D7%99%D7%93%D7%94-1-e1709794061472.png" alt="CGI Florida Logo" class="header-logo" />
+    <div class="header-text">
+      <h1>CGI Florida</h1>
+      <small>Boys Camp - Tips Directory</small>
+    </div>
+  </header>
+
+  <main class="container">
+    <form id="tippingForm">
+      <div class="mb-3">
+        <label for="grade">Grade</label>
+        <select id="grade" class="form-select" required>
+          <option value="">Select Grade</option>
+        </select>
+      </div>
+      <div class="mb-3">
+        <label for="category">Category</label>
+        <select id="category" class="form-select" required disabled>
+          <option value="">Select Category</option>
+        </select>
+      </div>
+      <div class="mb-3">
+        <label for="selection">Selection</label>
+        <select id="selection" class="form-select" required disabled>
+          <option value="">Select Selection</option>
+        </select>
+      </div>
+    </form>
+
+    <div id="paymentInfo" class="mt-4"></div>
+  </main>
+
+  <footer>
+    © 5785 CGI Florida | zalmanlstock@gmail.com
+  </footer>
+
+    <script>
+        const data = {
+    "3rd grade": {
+        "Bunk": {
+            "Bunk Alef": [
+                {
+                    "name": "Alter Diament",
+                    "cashapp": "https://cash.app/$AlterDiament",
+                    "zelle": "alterdiament10@gmail.com",
+                    "preferred": "CashApp"
+                },
+                {
+                    "name": "Mendel Halperin",
+                    "cashapp": "https://cash.app/$MGHalperin",
+                    "zelle": 3476237780,
+                    "preferred": "CashApp"
+                }
+            ],
+            "Bunk Beis": [
+                {
+                    "name": "Berel Munitz",
+                    "cashapp": "https://cash.app/$yisroelmmunitz",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                },
+                {
+                    "name": "Yankel Sirota",
+                    "cashapp": "https://cash.app/$YankelSirota",
+                    "zelle": "Yosselsirota@gmail.com",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Bunk Gimmel": [
+                {
+                    "name": "Chaim Stern",
+                    "cashapp": "https://cash.app/$chaimstern06",
+                    "zelle": "Chaimstern82@gmail.com",
+                    "preferred": "CashApp"
+                },
+                {
+                    "name": "Moshe Teldon",
+                    "cashapp": "https://cash.app/$mpteldon",
+                    "zelle": 6317205634,
+                    "preferred": "Zelle"
+                }
+            ]
+        },
+        "Learning Class": {
+            "Kevutza Alef": [
+                {
+                    "name": "Sholom Ber Oster",
+                    "cashapp": "https://cash.app/$wolfoster",
+                    "zelle": "Ysboster@gmail.com",
+                    "preferred": "Zelle"
+                }
+            ],
+            "Kevutza Gimmel": [
+                {
+                    "name": "Yaakov Finkelstein",
+                    "cashapp": "",
+                    "zelle": "Rishisliby@gmail.com",
+                    "preferred": "Zelle"
+                }
+            ],
+            "Kevutza Beis": [
+                {
+                    "name": "Yisroel Moss",
+                    "cashapp": "https://cash.app/$Yisroelmoss",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ]
+        },
+        "Waiter": {
+            "Bunk Gimmel": [
+                {
+                    "name": "Shushu Schvetz",
+                    "cashapp": "https://cash.app/$shushus2007",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Bunk Alef - Beis": [
+                {
+                    "name": "Yaakov Goldblat",
+                    "cashapp": "https://cash.app/$Yaakovgoldblatt",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ]
+        }
+    },
+    "4th grade": {
+        "Bunk": {
+            "Bunk Daled": [
+                {
+                    "name": "Dovid Schwei",
+                    "cashapp": "https://cash.app/$Dovidschwei",
+                    "zelle": 7189127699,
+                    "preferred": "Zelle"
+                },
+                {
+                    "name": "Shloimy Abenaim",
+                    "cashapp": "https://cash.app/$NossonOster",
+                    "zelle": 3477943935,
+                    "preferred": "Zelle"
+                }
+            ],
+            "Bunk Hey": [
+                {
+                    "name": "Eliezer Goldman",
+                    "cashapp": "https://cash.app/$EZG0LDMAN",
+                    "zelle": "ezergoldmans@gmail.com",
+                    "preferred": "CashApp"
+                },
+                {
+                    "name": "Menachem Rodal",
+                    "cashapp": "",
+                    "zelle": "RodalMenachem@gmail.com",
+                    "preferred": "Zelle"
+                }
+            ],
+            "Bunk Zayin": [
+                {
+                    "name": "Levi Rapoport",
+                    "cashapp": "https://cash.app/$levirapoport",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                },
+                {
+                    "name": "Mordy Beitch",
+                    "cashapp": "https://cash.app/$sarabeitsh",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Bunk Vov": [
+                {
+                    "name": "Mendel Wolowick & Shua Hertz",
+                    "cashapp": "https://cash.app/$berelwolowik",
+                    "zelle": "berelw@gmail.com",
+                    "preferred": "CashApp"
+                }
+            ]
+        },
+        "Learning Class": {
+            "Kevutza Hey": [
+                {
+                    "name": "Mendel Peles",
+                    "cashapp": "https://cash.app/$sampel1",
+                    "zelle": "Shmuel@peles.us",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Kevutza Daled": [
+                {
+                    "name": "Moshe Goldschmitt",
+                    "cashapp": "",
+                    "zelle": "Duddyny@gmail.com",
+                    "preferred": "Zelle"
+                }
+            ],
+            "Kevutza Ches": [
+                {
+                    "name": "Motti Groner",
+                    "cashapp": "https://cash.app/$MAYGroner",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Kevutza Zayin": [
+                {
+                    "name": "Yudi Kogan",
+                    "cashapp": "https://cash.app/$mskbk",
+                    "zelle": 6469572391,
+                    "preferred": "CashApp"
+                }
+            ],
+            "Kevutza Vov": [
+                {
+                    "name": "Levi Blotner",
+                    "cashapp": "https://cash.app/$rblotner",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ]
+        },
+        "Waiter": {
+            "Bunk Daled - Hey": [
+                {
+                    "name": "Shushu Schvetz",
+                    "cashapp": "https://cash.app/$shushus2007",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Bunk Vov - Zayin": [
+                {
+                    "name": "Yossi Spivak",
+                    "cashapp": "https://cash.app/$yossispivak18",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ]
+        }
+    },
+    "5th grade": {
+        "Bunk": {
+            "Bunk Tes": [
+                {
+                    "name": "Avraham Heber",
+                    "cashapp": "https://cash.app/$avrahamheber",
+                    "zelle": "Zheber8770@msn.com",
+                    "preferred": "CashApp"
+                },
+                {
+                    "name": "Sholom Wolowoski",
+                    "cashapp": "https://cash.app/$SholomWol",
+                    "zelle": 7077403525,
+                    "preferred": "CashApp"
+                }
+            ],
+            "Bunk Yud": [
+                {
+                    "name": "Chaykel Bamgarten",
+                    "cashapp": "https://cash.app/$chabadofthehamptons",
+                    "zelle": 5167909235,
+                    "preferred": "CashApp"
+                },
+                {
+                    "name": "Mendy Borenstien",
+                    "cashapp": "https://cash.app/$mendyborenstein",
+                    "zelle": 8456645141,
+                    "preferred": "CashApp"
+                }
+            ],
+            "Bunk Ches": [
+                {
+                    "name": "Moshe Altschul",
+                    "cashapp": "https://cash.app/$MosheAltschul",
+                    "zelle": 3125025942,
+                    "preferred": "CashApp"
+                },
+                {
+                    "name": "Yehuda Rapoport",
+                    "cashapp": "https://cash.app/$MosheAltschul",
+                    "zelle": 4148398468,
+                    "preferred": "CashApp"
+                }
+            ]
+        },
+        "Learning Class": {
+            "Kevutza Tes": [
+                {
+                    "name": "Ari Raskin",
+                    "cashapp": "https://cash.app/$aryeraskin",
+                    "zelle": 2033901815,
+                    "preferred": "CashApp"
+                }
+            ],
+            "Kevutza Yud Alef": [
+                {
+                    "name": "Dovid Pomansky",
+                    "cashapp": "https://cash.app/$DovidPomanski",
+                    "zelle": 3472813705,
+                    "preferred": "Zelle"
+                }
+            ],
+            "Kevutza Yud": [
+                {
+                    "name": "Tzvi Zayintz",
+                    "cashapp": "",
+                    "zelle": 8456599067,
+                    "preferred": "Zelle"
+                }
+            ]
+        },
+        "Tutor": {
+            "Shaya Sufrin": [
+                {
+                    "name": "Shaya Sufrin",
+                    "cashapp": "https://cash.app/$ShayaSufrin",
+                    "zelle": "mmendelsufrin@gmail.com",
+                    "preferred": "CashApp"
+                }
+            ]
+        },
+        "Waiter": {
+            "Bunk Ches": [
+                {
+                    "name": "Anshel Boymelgreen",
+                    "cashapp": "https://cash.app/$AnshelBoymelgreen",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Bunk Tes - Yud": [
+                {
+                    "name": "Menachem Blachman",
+                    "cashapp": "https://cash.app/$blachmanmenachem",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ]
+        }
+    },
+    "6th grade": {
+        "Bunk": {
+            "Bunk Yud Beis": [
+                {
+                    "name": "Chaim Garelik",
+                    "cashapp": "https://cash.app/$YosefGarelik",
+                    "zelle": "Ygarelik@gmail.com",
+                    "preferred": "Zelle"
+                },
+                {
+                    "name": "Shaya Aisenbach",
+                    "cashapp": "",
+                    "zelle": 3474570066,
+                    "preferred": "Zelle"
+                }
+            ],
+            "Bunk Yud Alef": [
+                {
+                    "name": "Fitche Lubin",
+                    "cashapp": "https://cash.app/$YosefLubin",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                },
+                {
+                    "name": "Nochum Avtzon",
+                    "cashapp": "https://cash.app/$FrumieAvtzon",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Bunk Yud Gimmel": [
+                {
+                    "name": "Hershey Goodfriend",
+                    "cashapp": "https://cash.app/$ChanaGoodfriend",
+                    "zelle": "chanigfriend@gmail.com",
+                    "preferred": "Zelle"
+                },
+                {
+                    "name": "Yisrolik Plotkin",
+                    "cashapp": "https://cash.app/$goldieplotkin123",
+                    "zelle": 9295121586,
+                    "preferred": "CashApp"
+                }
+            ],
+            "Bunk Yud Daled": [
+                {
+                    "name": "Levi Altien",
+                    "cashapp": "https://cash.app/$srulya",
+                    "zelle": "Alteinesrogim@gmail.com",
+                    "preferred": "CashApp"
+                },
+                {
+                    "name": "Sholom Gurevitz",
+                    "cashapp": "https://cash.app/$sholomgurevitz",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ]
+        },
+        "Learning Class": {
+            "Kevutza Tes Zayin": [
+                {
+                    "name": "Chananya Gurary",
+                    "cashapp": "https://cash.app/$chabadbuffalo",
+                    "zelle": 7162204615,
+                    "preferred": "CashApp"
+                }
+            ],
+            "Kevutza Tes Vov": [
+                {
+                    "name": "Mendel Plotkin",
+                    "cashapp": "https://cash.app/$YosefPlotkin",
+                    "zelle": "Raskinmtl@gmail.com",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Kevutza Yud Beis": [
+                {
+                    "name": "Moshe Drukman",
+                    "cashapp": "",
+                    "zelle": 9293821945,
+                    "preferred": "Zelle"
+                }
+            ],
+            "Kevutza Yud Daled": [
+                {
+                    "name": "Tzvi Hirsh Leiberman",
+                    "cashapp": "",
+                    "zelle": "chaim.lieberman@gmail.com",
+                    "preferred": "Zelle"
+                }
+            ],
+            "Kevutza Yud Gimmel": [
+                {
+                    "name": "Zevi Lipskier",
+                    "cashapp": "https://cash.app/$YehudaLipskier",
+                    "zelle": 9173340432,
+                    "preferred": "CashApp"
+                }
+            ]
+        },
+        "Tutor": {
+            "Shaya Sufrin": [
+                {
+                    "name": "Shaya Sufrin",
+                    "cashapp": "https://cash.app/$ShayaSufrin",
+                    "zelle": "mmendelsufrin@gmail.com",
+                    "preferred": "CashApp"
+                }
+            ]
+        },
+        "Waiter": {
+            "Bunk Yud Alef": [
+                {
+                    "name": "Anshel Boymelgreen",
+                    "cashapp": "https://cash.app/$AnshelBoymelgreen",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Bunk Yud Beis - Tud Daled": [
+                {
+                    "name": "Medele Bitton",
+                    "cashapp": "https://cash.app/$Mendelebitton7707",
+                    "zelle": 9546001380,
+                    "preferred": "CashApp"
+                }
+            ]
+        }
+    },
+    "Temimim": {
+        "Bunk": {
+            "Kevutza Hey": [
+                {
+                    "name": "Avrohom Boruch Stolik",
+                    "cashapp": "https://cash.app/$ABStolik",
+                    "zelle": 5616037206,
+                    "preferred": "Zelle"
+                }
+            ],
+            "Kevutza Daled": [
+                {
+                    "name": "Dovi Cadaner",
+                    "cashapp": "https://cash.app/$Dovicadaner",
+                    "zelle": "Dovicadaner18@gmail.com",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Kevutza Alef": [
+                {
+                    "name": "Mendy Zalmanov",
+                    "cashapp": "https://cash.app/$MendyZalmanov",
+                    "zelle": "mendyzalmanov@gmail.com",
+                    "preferred": "Zelle"
+                }
+            ],
+            "Kevutza Beis": [
+                {
+                    "name": "Moshe Young",
+                    "cashapp": "https://cash.app/$MoishyYoung",
+                    "zelle": 9175156198,
+                    "preferred": "CashApp"
+                }
+            ],
+            "Kevutza Gimmel": [
+                {
+                    "name": "Nosson oster",
+                    "cashapp": "https://cash.app/$NossonOster",
+                    "zelle": 3477943935,
+                    "preferred": "Zelle"
+                }
+            ],
+            "Kevutza Vov": [
+                {
+                    "name": "Uziel Wagner",
+                    "cashapp": "https://cash.app/$Uzielwagner",
+                    "zelle": "Uzielwagner13@gmail.com",
+                    "preferred": "Zelle"
+                }
+            ]
+        },
+        "Learning Class": {
+            "Temimim Shiur Alef": [
+                {
+                    "name": "Mendy Cohen",
+                    "cashapp": "https://cash.app/$MendyCo",
+                    "zelle": 3477701844,
+                    "preferred": "Zelle"
+                }
+            ],
+            "Temimim Shiur Hey": [
+                {
+                    "name": "Shneur Morosow",
+                    "cashapp": "https://cash.app/$ShazMorozow",
+                    "zelle": 9297145928,
+                    "preferred": "CashApp"
+                }
+            ],
+            "Temimim Shiur Gimmel": [
+                {
+                    "name": "Sholom Brashevitzky",
+                    "cashapp": "https://cash.app/$shalombrash",
+                    "zelle": 7576925050,
+                    "preferred": "CashApp"
+                }
+            ],
+            "Temimim Shiur Beis": [
+                {
+                    "name": "Tzvi Vilenkin",
+                    "cashapp": "https://cash.app/$YonahVilenkin",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ],
+            "Temimim Daled": [
+                {
+                    "name": "Elimelech Ende",
+                    "cashapp": "",
+                    "zelle": "elimelechende@gmail.com",
+                    "preferred": "Zelle"
+                }
+            ]
+        }
+    },
+    "Family - Staff": {
+        "Waiter": {
+            "Ari Capland": [
+                {
+                    "name": "Ari Capland",
+                    "cashapp": "https://cash.app/$sarapcap1",
+                    "zelle": "",
+                    "preferred": "CashApp"
+                }
+            ]
+        }
+    }
+};
+
+    document.addEventListener("DOMContentLoaded", function () {
+      const gradeSelect = document.getElementById("grade");
+      const categorySelect = document.getElementById("category");
+      const selectionSelect = document.getElementById("selection");
+      const paymentInfoDiv = document.getElementById("paymentInfo");
+
+      // Populate grades
+      Object.keys(data).forEach(grade => {
+        const option = document.createElement("option");
+        option.value = grade;
+        option.textContent = grade;
+        gradeSelect.appendChild(option);
+      });
+
+      gradeSelect.addEventListener("change", () => {
+        categorySelect.innerHTML = '<option value="">Select Category</option>';
+        selectionSelect.innerHTML = '<option value="">Select Selection</option>';
+        selectionSelect.disabled = true;
+        paymentInfoDiv.innerHTML = "";
+
+        const selectedGrade = gradeSelect.value;
+        if (!selectedGrade || !data[selectedGrade]) {
+          categorySelect.disabled = true;
+          return;
+        }
+
+        const categories = Object.keys(data[selectedGrade]);
+        categorySelect.disabled = false;
+        categories.forEach(category => {
+          const option = document.createElement("option");
+          option.value = category;
+          option.textContent = category.charAt(0).toUpperCase() + category.slice(1);
+          categorySelect.appendChild(option);
+        });
+      });
+
+      categorySelect.addEventListener("change", () => {
+        selectionSelect.innerHTML = '<option value="">Select Selection</option>';
+        paymentInfoDiv.innerHTML = "";
+
+        const selectedGrade = gradeSelect.value;
+        const selectedCategory = categorySelect.value;
+
+        if (!selectedGrade || !selectedCategory || !data[selectedGrade][selectedCategory]) {
+          selectionSelect.disabled = true;
+          return;
+        }
+
+        const selections = Object.keys(data[selectedGrade][selectedCategory]);
+        selectionSelect.disabled = false;
+        selections.forEach(sel => {
+          const option = document.createElement("option");
+          option.value = sel;
+          option.textContent = sel;
+          selectionSelect.appendChild(option);
+        });
+      });
+
+      selectionSelect.addEventListener("change", () => {
+        const grade = gradeSelect.value;
+        const category = categorySelect.value;
+        const selection = selectionSelect.value;
+
+        if (!grade || !category || !selection || !data[grade][category][selection]) {
+          paymentInfoDiv.innerHTML = "<p>Please complete all selections.</p>";
+          return;
+        }
+
+        const counselors = data[grade][category][selection];
+        let html = "";
+
+        counselors.forEach(c => {
+          html += `
+            <div>
+              <p><strong>Name:</strong> ${c.name}</p>
+              <p><strong>Preferred:</strong> ${c.preferred}</p>
+              <p><strong>CashApp:</strong> <a href="${c.cashapp}" target="_blank">${c.cashapp}</a></p>
+              <p><strong>Zelle:</strong> ${c.zelle}</p>
+              <button class="btn-copy" data-zelle="${c.zelle}">Copy Zelle</button>
+              <hr>
+            </div>
+          `;
+        });
+
+        paymentInfoDiv.innerHTML = html;
+      });
+
+      document.addEventListener("click", function (e) {
+        if (e.target.classList.contains("btn-copy")) {
+          const zelle = e.target.getAttribute("data-zelle");
+          navigator.clipboard.writeText(zelle).then(() => {
+            alert("Zelle copied to clipboard!");
+          });
+        }
+      });
+    });
+  </script>
+</body>
+</html>
