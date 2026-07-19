@@ -677,54 +677,52 @@
       "Kevutza Beis": [
         {
           "name": "Sholom Gurevitz",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$SholomGurevitz",
             "Zelle": "4844371228",
-            "Venmo": "Cashapp"
           }
         }
       ],
       "Kevutza Gimmel": [
         {
           "name": "Levi Altein",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$srulya",
             "Zelle": "alteinesrogim@gmail.com",
-            "Venmo": "Cashapp"
           }
         }
       ],
       "Kevutza Daled": [
         {
           "name": "Shaya Aisenbach",
-          "preferred": "",
+          "preferred": "Zelle",
           "payments": {
             "Zelle": "9297454795",
-            "Venmo": "Zelle"
+            "Venmo": ""
           }
         }
       ],
       "Kevutza Hey": [
         {
           "name": "Nochum Avtzon",
-          "preferred": "",
+          "preferred": "Zelle",
           "payments": {
             "Zelle": "NAVTZON770@GMAIL.COM",
-            "Venmo": "Zelle"
+            "Venmo": ""
           }
         }
       ],
       "Kevutza Vov": [
         {
           "name": "Yisraelik Plotkin",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$goldieplotkin123",
             "Zelle": "9295121586",
             "Paypal": "Goldieplotkin@gmail.com",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ]
@@ -733,32 +731,32 @@
       "Shiur Alef": [
         {
           "name": "Berl Munitz",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$yisroelmmunitz",
             "Zelle": "sholommunitz@gmail.com",
             "Paypal": "yisroelmunitz@gmail.com",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ],
       "Shiur Beis": [
         {
           "name": "Mendel Plotkin",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$htmmplotkin",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ],
       "Shiur Gimmel": [
         {
           "name": "Zevi Lipsker",
-          "preferred": "",
+          "preferred": "Zelle",
           "payments": {
             "Zelle": "9174071510",
-            "Venmo": "Zelle"
+            "Venmo": ""
           }
         }
       ],
@@ -769,17 +767,17 @@
           "payments": {
             "CashApp": "2537202018",
             "Zelle": "2537202018",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ],
       "Shiur Hey": [
         {
           "name": "Tzvi Zaiontz",
-          "preferred": "",
+          "preferred": "Zelle",
           "payments": {
             "Zelle": "kaganyossi@gmail.com",
-            "Venmo": "Zelle"
+            "Venmo": ""
           }
         }
       ]
@@ -788,120 +786,120 @@
       "Kevutza Alef": [
         {
           "name": "Yisorel Tennenhaus",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$YisroelTennenhaus",
             "Zelle": "Tennenhausyisroel81@gmail.com",
             "Paypal": "https://www.paypal.com/paypalme/YisroelTennenhaus",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         },
         {
           "name": "Mendel Litzman",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$Mendellitz",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ],
       "Kevutza Beis": [
         {
           "name": "Yisorel Tennenhaus",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$YisroelTennenhaus",
             "Zelle": "Tennenhausyisroel81@gmail.com",
             "Paypal": "https://www.paypal.com/paypalme/YisroelTennenhaus",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         },
         {
           "name": "Mendel Litzman",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$Mendellitz",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ],
       "Kevutza Gimmel": [
         {
           "name": "Yisorel Tennenhaus",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$YisroelTennenhaus",
             "Zelle": "Tennenhausyisroel81@gmail.com",
             "Paypal": "https://www.paypal.com/paypalme/YisroelTennenhaus",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         },
         {
           "name": "Mendel Litzman",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$Mendellitz",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ],
       "Kevutza Daled": [
         {
           "name": "Yisorel Tennenhaus",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$YisroelTennenhaus",
             "Zelle": "Tennenhausyisroel81@gmail.com",
             "Paypal": "https://www.paypal.com/paypalme/YisroelTennenhaus",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         },
         {
           "name": "Mendel Litzman",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$Mendellitz",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ],
       "Kevutza Hey": [
         {
           "name": "Yisorel Tennenhaus",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$YisroelTennenhaus",
             "Zelle": "Tennenhausyisroel81@gmail.com",
             "Paypal": "https://www.paypal.com/paypalme/YisroelTennenhaus",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         },
         {
           "name": "Mendel Litzman",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$Mendellitz",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ],
       "Kevutza Vov": [
         {
           "name": "Yisorel Tennenhaus",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$YisroelTennenhaus",
             "Zelle": "Tennenhausyisroel81@gmail.com",
             "Paypal": "https://www.paypal.com/paypalme/YisroelTennenhaus",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         },
         {
           "name": "Mendel Litzman",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$Mendellitz",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ]
@@ -910,21 +908,21 @@
       "EMT": [
         {
           "name": "Aron Taubenfligel",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$Amtaubs",
             "Zelle": "Amttaubs@gmail.com",
             "Paypal": "https://www.paypal.com/paypalme/ATaubenfliegel",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         },
         {
           "name": "Shalom Rappaport",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$ShalomRappaport",
             "Zelle": "shalomrapps@gmail.com",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ]
@@ -935,21 +933,21 @@
       "EMT": [
         {
           "name": "Aron Taubenfligel",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$Amtaubs",
             "Zelle": "Amttaubs@gmail.com",
             "Paypal": "https://www.paypal.com/paypalme/ATaubenfliegel",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         },
         {
           "name": "Shalom Rappaport",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$ShalomRappaport",
             "Zelle": "shalomrapps@gmail.com",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ]
@@ -958,10 +956,10 @@
       "Staff": [
         {
           "name": "Ephriam Kagan",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$EphraimKagan",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ]
@@ -972,12 +970,12 @@
       "Family Table": [
         {
           "name": "Shalom Eizocovics",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$seizi",
             "Zelle": "954 464 0416",
             "Paypal": "954 464 0416",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ]
@@ -988,11 +986,11 @@
       "Head Staff Table": [
         {
           "name": "Shmuel Zuckerman",
-          "preferred": "",
+          "preferred": "Cashapp",
           "payments": {
             "CashApp": "https://cash.app/$ShmuelZukerman",
             "Zelle": "9293759895",
-            "Venmo": "Cashapp"
+            "Venmo": ""
           }
         }
       ]
