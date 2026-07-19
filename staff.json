@@ -672,6 +672,8 @@
           "name": "Hershey Goodfriend",
           "preferred": "",
           "payments": {}
+          "Venmo": ""
+
         }
       ],
       "Kevutza Beis": [
@@ -681,6 +683,7 @@
           "payments": {
             "CashApp": "https://cash.app/$SholomGurevitz",
             "Zelle": "4844371228",
+          "Venmo": ""
           }
         }
       ],
@@ -691,6 +694,8 @@
           "payments": {
             "CashApp": "https://cash.app/$srulya",
             "Zelle": "alteinesrogim@gmail.com",
+            "Venmo": ""
+
           }
         }
       ],
