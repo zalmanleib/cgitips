@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#003366">
+  <title>CGI Florida Boys Tips</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="hebrew">ב״ה</div>
+    <img class="logo" src="https://zalmanleib.github.io/cgitips/CGI%20Florida%20Logo.svg" alt="CGI Florida">
+    <h1>CGI Florida</h1>
+    <p>Boys Camp · Staff Tips</p>
+  </header>
+
+  <main class="page">
+    <section class="master-list-card">
+      <div class="master-list-copy">
+        <h2>Know your son's name but not his bunk?</h2>
+        <p>Search by camper name instead — it's usually faster.</p>
+      </div>
+      <a class="master-list-button" href="index.html">Search Camper</a>
+    </section>
+
+    <section class="grade-section">
+      <label for="grade">Choose a Grade</label>
+      <select id="grade">
+        <option value="">Select Grade</option>
+      </select>
+    </section>
+
+    <div id="directory" class="directory"></div>
+    <div id="results" class="results"></div>
+    <div id="loading" class="loading">Loading staff directory…</div>
+    <div id="error" class="error" hidden>There was a problem loading the staff directory.</div>
+
+    <p class="back-link"><a href="index.html">← Back to camper search</a></p>
+  </main>
+
+  <footer>
+    <span id="copyright"></span> · zalmanlstock@gmail.com
+  </footer>
+
+  <script src="payments.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#003366">
+  <title>CGI Florida Boys Tips</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="hebrew">ב״ה</div>
+    <img class="logo" src="https://zalmanleib.github.io/cgitips/CGI%20Florida%20Logo.svg" alt="CGI Florida">
+    <h1>CGI Florida</h1>
+    <p>Find Your Camper</p>
+  </header>
+
+  <main class="page">
+    <section class="grade-section">
+      <label for="camperSearch">Search Camper Name</label>
+      <input id="camperSearch" type="text" placeholder="Start typing a name…" autocomplete="off">
+      <div id="camperMatches" class="selection-list camper-matches"></div>
+    </section>
+
+    <div id="camperResults" class="results"></div>
+    <div id="loading" class="loading">Loading camper list…</div>
+    <div id="error" class="error" hidden>There was a problem loading the camper list.</div>
+
+    <p class="back-link"><a href="bunk.html">← Browse by grade &amp; bunk instead</a></p>
+  </main>
+
+  <footer>
+    <span id="copyright"></span> · zalmanlstock@gmail.com
+  </footer>
+
+  <script src="payments.js"></script>
+  <script src="camper.js"></script>
+</body>
+</html>
