@@ -106,7 +106,7 @@ function renderResults(category, selection, staff) {
 
 gradeSelect.addEventListener("change", renderDirectory);
 
-fetch("staff.json")
+fetch("staff.json?v=0.1")
   .then(response => {
     if (!response.ok) {
       throw new Error("staff.json not found");
