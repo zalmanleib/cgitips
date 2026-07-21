@@ -67,7 +67,7 @@
     "name": "Menachem Bassman",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Yud"
     }
   },
@@ -172,7 +172,7 @@
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Alef",
-      "Shiur": "Shiur hey"
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -300,7 +300,7 @@
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Gimmel",
-      "Shiur": "Shiur hey"
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -371,7 +371,7 @@
     "name": "Lior Eliyahu",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Yud"
     }
   },
@@ -387,7 +387,7 @@
     "name": "Yosef Mordechai Erdvin",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Yud Alef"
     }
   },
@@ -539,7 +539,7 @@
     "name": "Omer Aharon Ganon",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Beis"
     }
   },
@@ -579,7 +579,7 @@
     "name": "Moshe Chaim Gershowitz",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Yud Beis"
     }
   },
@@ -604,7 +604,7 @@
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Vov",
-      "Shiur": "Shiur hey"
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -651,7 +651,7 @@
     "name": "Yosef Aryeh Greenberg",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Tes"
     }
   },
@@ -700,7 +700,7 @@
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Beis",
-      "Shiur": "Shiur hey"
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -740,7 +740,7 @@
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Hey",
-      "Shiur": "Shiur hey"
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -867,7 +867,7 @@
     "name": "Avremi Kaniel",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Tes"
     }
   },
@@ -987,7 +987,7 @@
     "name": "Yehuda (Dudi) Lancry",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Yud"
     }
   },
@@ -1003,7 +1003,7 @@
     "name": "Shalom Levin",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Yud Gimmel"
     }
   },
@@ -1019,7 +1019,7 @@
     "name": "Shneur Levy",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Tes"
     }
   },
@@ -1116,7 +1116,7 @@
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Daled",
-      "Shiur": "Shiur hey"
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -1259,7 +1259,7 @@
     "name": "Ari Raksin",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Yud Beis"
     }
   },
@@ -1267,7 +1267,7 @@
     "name": "Yitzchak Raksin",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Tes"
     }
   },
@@ -1299,7 +1299,7 @@
     "name": "Yakov Reyder",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Gimmel"
     }
   },
@@ -1323,7 +1323,7 @@
     "name": "Avrumie Rieger",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Yud"
     }
   },
@@ -1355,7 +1355,7 @@
     "name": "Yisroel Rosenfeld",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Yud Alef"
     }
   },
@@ -1416,7 +1416,7 @@
     }
   },
   {
-    "name": "Yehudah Tzvi Scheyner",
+    "name": "Yehudah Tzvi Scheiner",
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Hey",
@@ -1444,7 +1444,7 @@
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Hey",
-      "Shiur": "Shiur hey"
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -1683,7 +1683,7 @@
     "name": "Dovi Uryash",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud Alef",
+      "Bunk": "Yud Aleph",
       "Kevutza": "Yud Gimmel"
     }
   },
@@ -1740,7 +1740,7 @@
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Beis",
-      "Shiur": "Shiur hey"
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -1756,7 +1756,7 @@
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Gimmel",
-      "Shiur": "Shiur hey"
+      "Shiur": "Shiur Hei"
     }
   },
   {
