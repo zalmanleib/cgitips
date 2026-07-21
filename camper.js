@@ -282,20 +282,24 @@ function renderCamperResults(camper) {
 
 
 
-  // Add Waiter automatically
-  // based on the camper's Bunk
-
-  if (
-    camper.selections &&
-    camper.selections.Bunk
-  ) {
-
-    categories.push([
-      "Waiter",
-      `Bunk ${camper.selections.Bunk}`
-    ]);
-
+  // Add Waiter automatically based on the camper's Bunk (grades 3-6)
+  // or Kevutza (grade 7, where waiter keys are "Kevutza Xxx")
+  if (camper.selections) {
+    if (camper.selections.Bunk) {
+      categories.push([
+        "Waiter",
+        `Bunk ${camper.selections.Bunk}`
+      ]);
+    } else if (camper.selections.Kevutza) {
+      categories.push([
+        "Waiter",
+        camper.selections.Kevutza
+      ]);
+    }
   }
+
+  // Add EMT automatically — every camper shares the same EMT per grade
+  categories.push(["EMT", "EMT"]);
 
 
 

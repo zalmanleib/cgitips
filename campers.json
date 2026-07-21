@@ -131,8 +131,8 @@
     "name": "Yehuda Biston",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Daled",
-      "Kevutza": "Shiur Alef"
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Alef"
     }
   },
   {
@@ -163,24 +163,24 @@
     "name": "Shaya Brashevitzky",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Hey",
-      "Kevutza": "Shiur Alef"
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Alef"
     }
   },
   {
     "name": "Yechezkel Brod",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Alef",
-      "Kevutza": "Shiur Hei"
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Shiur Hei"
     }
   },
   {
     "name": "Zev Bronchtain",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Gimmel",
-      "Kevutza": "Shiur Gimmel"
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Gimmel"
     }
   },
   {
@@ -219,8 +219,8 @@
     "name": "Aharon Bear Bushman",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Alef",
-      "Kevutza": "Shiur Alef"
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Shiur Alef"
     }
   },
   {
@@ -291,16 +291,16 @@
     "name": "Sholom Davidson",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Hey",
-      "Kevutza": "Shiur Daled"
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Daled"
     }
   },
   {
     "name": "Raphael Simon De Haas",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Gimmel",
-      "Kevutza": "Shiur Hei"
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -363,8 +363,8 @@
     "name": "Zalman Eliav",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Gimmel",
-      "Kevutza": "Shiur Alef"
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Alef"
     }
   },
   {
@@ -435,16 +435,16 @@
     "name": "Zalman Feldman",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Vov",
-      "Kevutza": "Shiur Alef"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Shiur Alef"
     }
   },
   {
     "name": "Mendel Feldman",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Vov",
-      "Kevutza": "Shiur Daled"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Shiur Daled"
     }
   },
   {
@@ -523,8 +523,8 @@
     "name": "Mendy Friedman",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Daled",
-      "Kevutza": "Shiur Gimmel"
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Gimmel"
     }
   },
   {
@@ -555,8 +555,8 @@
     "name": "Maor Garcia",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Vov",
-      "Kevutza": "Shiur Gimmel"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Shiur Gimmel"
     }
   },
   {
@@ -603,8 +603,8 @@
     "name": "Menachem Goodman",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Vov",
-      "Kevutza": "Shiur Hei"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -667,24 +667,24 @@
     "name": "Eitan Greenwald",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Beis",
-      "Kevutza": "Shiur Alef"
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Alef"
     }
   },
   {
     "name": "Yos Greenwald",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Beis",
-      "Kevutza": "Shiur Daled"
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Daled"
     }
   },
   {
     "name": "Yakov Grossman",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Gimmel",
-      "Kevutza": "Shiur Beis"
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Beis"
     }
   },
   {
@@ -699,8 +699,8 @@
     "name": "Noey Gutleizer",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Beis",
-      "Kevutza": "Shiur Hei"
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -739,8 +739,8 @@
     "name": "Shimmy Gutnick",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Hey",
-      "Kevutza": "Shiur Hei"
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -835,8 +835,8 @@
     "name": "Adam Itelman",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Vov",
-      "Kevutza": "Shiur Gimmel"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Shiur Gimmel"
     }
   },
   {
@@ -851,8 +851,8 @@
     "name": "Itamar Janowski",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Hey",
-      "Kevutza": "Shiur Alef"
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Alef"
     }
   },
   {
@@ -907,8 +907,8 @@
     "name": "Bentziyon Klioner",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Beis",
-      "Kevutza": "Shiur Gimmel"
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Gimmel"
     }
   },
   {
@@ -939,16 +939,16 @@
     "name": "Ephraim Kotlarsky",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Daled",
-      "Kevutza": "Shiur Beis"
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Beis"
     }
   },
   {
     "name": "Zalman Kotlarsky",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Daled",
-      "Kevutza": "Shiur Beis"
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Beis"
     }
   },
   {
@@ -963,8 +963,8 @@
     "name": "Shlomo Kuraev",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Gimmel",
-      "Kevutza": "Shiur Alef"
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Alef"
     }
   },
   {
@@ -995,8 +995,8 @@
     "name": "Tzvi Lehrer",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Beis",
-      "Kevutza": "Shiur Alef"
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Alef"
     }
   },
   {
@@ -1051,8 +1051,8 @@
     "name": "Berel Lieberman",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Alef",
-      "Kevutza": "Shiur Daled"
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Shiur Daled"
     }
   },
   {
@@ -1115,16 +1115,16 @@
     "name": "David Milman",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Daled",
-      "Kevutza": "Shiur Hei"
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Hei"
     }
   },
   {
     "name": "Matisyahu Mirise",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Hey",
-      "Kevutza": "Shiur Beis"
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Beis"
     }
   },
   {
@@ -1235,16 +1235,16 @@
     "name": "Meir New",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Hey",
-      "Kevutza": "Shiur Gimmel"
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Gimmel"
     }
   },
   {
     "name": "Levi Oirechman",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Daled",
-      "Kevutza": "Shiur Daled"
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Daled"
     }
   },
   {
@@ -1275,16 +1275,16 @@
     "name": "Chezzy Raksin",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Beis",
-      "Kevutza": "Shiur Beis"
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Beis"
     }
   },
   {
     "name": "Zevi Raksin",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Daled",
-      "Kevutza": "Shiur Daled"
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Daled"
     }
   },
   {
@@ -1347,8 +1347,8 @@
     "name": "Aryeh Rosenberger",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Daled",
-      "Kevutza": "Yud Daled"
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Yud Daled"
     }
   },
   {
@@ -1363,16 +1363,16 @@
     "name": "Shmuel Rosenfeld",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Alef",
-      "Kevutza": "Shiur Alef"
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Shiur Alef"
     }
   },
   {
     "name": "Eli Rosenthal",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Alef",
-      "Kevutza": "Shiur Beis"
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Shiur Beis"
     }
   },
   {
@@ -1419,8 +1419,8 @@
     "name": "Yehudah Tzvi Scheiner",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Hey",
-      "Kevutza": "Shiur Beis"
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Beis"
     }
   },
   {
@@ -1443,8 +1443,8 @@
     "name": "Yoel Schochet",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Hey",
-      "Kevutza": "Shiur Hei"
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -1467,8 +1467,8 @@
     "name": "Eliezer Schurder",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Alef",
-      "Kevutza": "Zayin"
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Zayin"
     }
   },
   {
@@ -1515,8 +1515,8 @@
     "name": "Shmuli Shahino",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Alef",
-      "Kevutza": "Alef"
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Alef"
     }
   },
   {
@@ -1539,8 +1539,8 @@
     "name": "Aaron Shuchat",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Alef",
-      "Kevutza": "Tes"
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Tes"
     }
   },
   {
@@ -1587,8 +1587,8 @@
     "name": "Gavriel Slavin",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Gimmel",
-      "Kevutza": "Gimmel"
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Gimmel"
     }
   },
   {
@@ -1675,8 +1675,8 @@
     "name": "Rafael Tsisin",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Beis",
-      "Kevutza": "Yud Beis"
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Yud Beis"
     }
   },
   {
@@ -1699,8 +1699,8 @@
     "name": "Avraham Dovber Vasquez",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Vov",
-      "Kevutza": "Vov"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Vov"
     }
   },
   {
@@ -1739,8 +1739,8 @@
     "name": "Berechyahu Wachtel",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Beis",
-      "Kevutza": "Shiur Hei"
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Hei"
     }
   },
   {
@@ -1755,8 +1755,8 @@
     "name": "Shimmy Waysman",
     "grade": "7",
     "selections": {
-      "Bunk": "Kevutza Gimmel",
-      "Kevutza": "Shiur Hei"
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Hei"
     }
   },
   {
