@@ -1,354 +1,10 @@
 [
   {
-    "name": "Ariel Abramowicz",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
-      "Kevutza": "Vov"
-    }
-  },
-  {
-    "name": "Meir Ainsworth",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Yud Daled"
-    }
-  },
-  {
-    "name": "Shmuel Altein",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Gimmel"
-    }
-  },
-  {
-    "name": "Isaac Andrusier",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Yud Daled"
-    }
-  },
-  {
-    "name": "Aaron Arnold",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Daled",
-      "Kevutza": "Daled"
-    }
-  },
-  {
-    "name": "Yehonatan Yitzchak Ashkenazi",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Tes"
-    }
-  },
-  {
-    "name": "Eli Barash",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Alef"
-    }
-  },
-  {
-    "name": "Levi Baron",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
-      "Kevutza": "Hey"
-    }
-  },
-  {
-    "name": "Menachem Bassman",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Yud"
-    }
-  },
-  {
-    "name": "Mendel Begun",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
-      "Kevutza": "Vov"
-    }
-  },
-  {
-    "name": "Lev Belkin",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Yud Alef"
-    }
-  },
-  {
-    "name": "Elchanan Ben Levy",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Zayin",
-      "Kevutza": "Daled"
-    }
-  },
-  {
-    "name": "Eitan Bercovits",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Yud"
-    }
-  },
-  {
-    "name": "Baruch Binder",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Beis",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Dovi Biston",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
-      "Kevutza": "Hey"
-    }
-  },
-  {
-    "name": "Aharon Biston",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Tes"
-    }
-  },
-  {
-    "name": "Yehuda Biston",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Daled",
-      "Shiur": "Shiur Alef"
-    }
-  },
-  {
-    "name": "Yonatan Bolotin",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Yud Beis"
-    }
-  },
-  {
-    "name": "Mendel Bortunk",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Gimmel",
-      "Kevutza": "Gimmel"
-    }
-  },
-  {
-    "name": "Avraham Boyd",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Daled",
-      "Kevutza": "Hey"
-    }
-  },
-  {
-    "name": "Shaya Brashevitzky",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Hey",
-      "Shiur": "Shiur Alef"
-    }
-  },
-  {
-    "name": "Yechezkel Brod",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Alef",
-      "Shiur": "Shiur Hei"
-    }
-  },
-  {
-    "name": "Zev Bronchtain",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Gimmel",
-      "Shiur": "Shiur Gimmel"
-    }
-  },
-  {
-    "name": "Ezzy Bronstein",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
-      "Kevutza": "Vov"
-    }
-  },
-  {
-    "name": "Mendel Brooks",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Yud Alef"
-    }
-  },
-  {
-    "name": "Shalom Brusownakin",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Daled"
-    }
-  },
-  {
-    "name": "Chaim Bushman",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Yud Alef"
-    }
-  },
-  {
-    "name": "Aharon Bear Bushman",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Alef",
-      "Shiur": "Shiur Alef"
-    }
-  },
-  {
-    "name": "Levi Cagen",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Yud Gimmel"
-    }
-  },
-  {
-    "name": "Eli Cattan",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Yud Beis"
-    }
-  },
-  {
-    "name": "Menachem Cohen",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Daled",
-      "Kevutza": "Vov"
-    }
-  },
-  {
-    "name": "Eli Cohen",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
-      "Kevutza": "Daled"
-    }
-  },
-  {
     "name": "Mendel Cotlar",
     "grade": "3",
     "selections": {
       "Bunk": "Alef",
       "Kevutza": "Gimmel"
-    }
-  },
-  {
-    "name": "Akiva Cotlar",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Beis",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Yossi Cotlar",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Beis",
-      "Kevutza": "Yud Daled"
-    }
-  },
-  {
-    "name": "Netanel Davidoff",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Daled"
-    }
-  },
-  {
-    "name": "Sholom Davidson",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Hey",
-      "Shiur": "Shiur Daled"
-    }
-  },
-  {
-    "name": "Raphael Simon De Haas",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Gimmel",
-      "Shiur": "Shiur Hei"
-    }
-  },
-  {
-    "name": "Dovber Denburg",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Yud"
-    }
-  },
-  {
-    "name": "Yosef Diaz",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Yud Beis"
-    }
-  },
-  {
-    "name": "Dovid Aryeh Drihem",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Daled",
-      "Kevutza": "Hey"
-    }
-  },
-  {
-    "name": "Yosef Duchman",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Gimmel",
-      "Kevutza": "Yud Beis"
-    }
-  },
-  {
-    "name": "Yaakov Duchman",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Gimmel"
-    }
-  },
-  {
-    "name": "Yisroel Duchman",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Yud Alef"
     }
   },
   {
@@ -360,43 +16,187 @@
     }
   },
   {
-    "name": "Zalman Eliav",
-    "grade": "7",
+    "name": "Itamar Ganon",
+    "grade": "3",
     "selections": {
-      "Kevutza": "Kevutza Gimmel",
-      "Shiur": "Shiur Alef"
+      "Bunk": "Alef",
+      "Kevutza": "Beis"
     }
   },
   {
-    "name": "Lior Eliyahu",
-    "grade": "5",
+    "name": "Meori Moshe Gazit",
+    "grade": "3",
     "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Yud"
+      "Bunk": "Alef",
+      "Kevutza": "Gimmel"
     }
   },
   {
-    "name": "Menny Epstein",
-    "grade": "4",
+    "name": "Nochum Gurary",
+    "grade": "3",
     "selections": {
-      "Bunk": "Zayin",
-      "Kevutza": "Hey"
+      "Bunk": "Alef",
+      "Kevutza": "Alef"
     }
   },
   {
-    "name": "Yosef Mordechai Erdvin",
-    "grade": "5",
+    "name": "Eliahu Labkowski",
+    "grade": "3",
     "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Yud Alef"
+      "Bunk": "Alef",
+      "Kevutza": "Beis"
     }
   },
   {
-    "name": "Dovid Ezagui",
-    "grade": "5",
+    "name": "Meir Lichy",
+    "grade": "3",
     "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Tes"
+      "Bunk": "Alef",
+      "Kevutza": "Alef"
+    }
+  },
+  {
+    "name": "Moshe Reyder",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Alef",
+      "Kevutza": "Gimmel"
+    }
+  },
+  {
+    "name": "Menachem Mendel Rieger",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Alef",
+      "Kevutza": "Beis"
+    }
+  },
+  {
+    "name": "Leibu Shemtov",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Alef",
+      "Kevutza": "Alef"
+    }
+  },
+  {
+    "name": "Yitzchok Dovid Weic",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Alef",
+      "Kevutza": "Alef"
+    }
+  },
+  {
+    "name": "Shmuel Altein",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Gimmel"
+    }
+  },
+  {
+    "name": "Eli Barash",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Alef"
+    }
+  },
+  {
+    "name": "Avrahom Dovid Feiner",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Beis"
+    }
+  },
+  {
+    "name": "Dovi Kastel",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Gimmel"
+    }
+  },
+  {
+    "name": "Emmanuel Laine",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Beis"
+    }
+  },
+  {
+    "name": "Mendel Lipskier",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Alef"
+    }
+  },
+  {
+    "name": "Yaakov Morris",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Gimmel"
+    }
+  },
+  {
+    "name": "Mendel Schechter",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Beis"
+    }
+  },
+  {
+    "name": "Mendel Schwartz",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Beis"
+    }
+  },
+  {
+    "name": "Motti Sossonko",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Gimmel"
+    }
+  },
+  {
+    "name": "Zalman Sossonko",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Alef"
+    }
+  },
+  {
+    "name": "Shneur Tennenhaus",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Beis",
+      "Kevutza": "Alef"
+    }
+  },
+  {
+    "name": "Mendel Bortunk",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Gimmel",
+      "Kevutza": "Gimmel"
+    }
+  },
+  {
+    "name": "Yosef Duchman",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Gimmel",
+      "Kevutza": "Gimmel"
     }
   },
   {
@@ -408,43 +208,11 @@
     }
   },
   {
-    "name": "Avrahom Dovid Feiner",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Gimmel"
-    }
-  },
-  {
     "name": "Moshe Feiner",
     "grade": "3",
     "selections": {
       "Bunk": "Gimmel",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Moshe Mendel Feiner",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Beis"
-    }
-  },
-  {
-    "name": "Zalman Feldman",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Vov",
-      "Shiur": "Shiur Alef"
-    }
-  },
-  {
-    "name": "Mendel Feldman",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Vov",
-      "Shiur": "Shiur Daled"
+      "Kevutza": "Gimmel"
     }
   },
   {
@@ -460,311 +228,7 @@
     "grade": "3",
     "selections": {
       "Bunk": "Gimmel",
-      "Kevutza": "Tes Vov"
-    }
-  },
-  {
-    "name": "Motti Fellig",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
       "Kevutza": "Alef"
-    }
-  },
-  {
-    "name": "Chaim Fellig",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Daled"
-    }
-  },
-  {
-    "name": "Yosef Fellig",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Tes"
-    }
-  },
-  {
-    "name": "Menny Fischweicher",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Zayin",
-      "Kevutza": "Yud Beis"
-    }
-  },
-  {
-    "name": "Arik Fischweicher",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Vov"
-    }
-  },
-  {
-    "name": "Yankel Friedman",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Beis",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Yossi Friedman",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Beis",
-      "Kevutza": "Tes Vov"
-    }
-  },
-  {
-    "name": "Mendy Friedman",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Daled",
-      "Shiur": "Shiur Gimmel"
-    }
-  },
-  {
-    "name": "Itamar Ganon",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Alef",
-      "Kevutza": "Yud Gimmel"
-    }
-  },
-  {
-    "name": "Omer Aharon Ganon",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Beis"
-    }
-  },
-  {
-    "name": "Mendel Gansburg",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Maor Garcia",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Vov",
-      "Shiur": "Shiur Gimmel"
-    }
-  },
-  {
-    "name": "Meori Moshe Gazit",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Alef",
-      "Kevutza": "Gimmel"
-    }
-  },
-  {
-    "name": "David Shlomo Gershowitz",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Yud Gimmel"
-    }
-  },
-  {
-    "name": "Moshe Chaim Gershowitz",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Yud Beis"
-    }
-  },
-  {
-    "name": "Eli Goldberg",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Yud"
-    }
-  },
-  {
-    "name": "Ezra Goldblum",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Yud Alef"
-    }
-  },
-  {
-    "name": "Menachem Goodman",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Vov",
-      "Shiur": "Shiur Hei"
-    }
-  },
-  {
-    "name": "Mendel Gopin",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Zayin",
-      "Kevutza": "Daled"
-    }
-  },
-  {
-    "name": "Nosson Grand",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Daled",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Ezzy Grand",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Hey"
-    }
-  },
-  {
-    "name": "Yakov Green",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Yud Daled"
-    }
-  },
-  {
-    "name": "Moshe Uriel Greenberg",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Ches"
-    }
-  },
-  {
-    "name": "Yosef Aryeh Greenberg",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Tes"
-    }
-  },
-  {
-    "name": "Aaron Greenwald",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Hey"
-    }
-  },
-  {
-    "name": "Eitan Greenwald",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Beis",
-      "Shiur": "Shiur Alef"
-    }
-  },
-  {
-    "name": "Yos Greenwald",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Beis",
-      "Shiur": "Shiur Daled"
-    }
-  },
-  {
-    "name": "Yakov Grossman",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Gimmel",
-      "Shiur": "Shiur Beis"
-    }
-  },
-  {
-    "name": "Nochum Gurary",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Alef",
-      "Kevutza": "Alef"
-    }
-  },
-  {
-    "name": "Noey Gutleizer",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Beis",
-      "Shiur": "Shiur Hei"
-    }
-  },
-  {
-    "name": "Mordechai Gutman",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Yud Gimmel"
-    }
-  },
-  {
-    "name": "Dovi Gutnick",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
-      "Kevutza": "Vov"
-    }
-  },
-  {
-    "name": "Mendy Gutnick",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Yud"
-    }
-  },
-  {
-    "name": "Moshe Gutnick",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Tes Vov"
-    }
-  },
-  {
-    "name": "Shimmy Gutnick",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Hey",
-      "Shiur": "Shiur Hei"
-    }
-  },
-  {
-    "name": "Abi Hauck",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
-      "Kevutza": "Vov"
-    }
-  },
-  {
-    "name": "Eli Hazan",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Daled"
-    }
-  },
-  {
-    "name": "Calev Yehonosan Hertzel",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Yud Alef"
     }
   },
   {
@@ -772,143 +236,7 @@
     "grade": "3",
     "selections": {
       "Bunk": "Gimmel",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Peretz Hilel",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Beis",
       "Kevutza": "Alef"
-    }
-  },
-  {
-    "name": "Yankel Hodakov",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Beis",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Shmuel Holzkenner",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Shua Horowitz",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Yud Gimmel"
-    }
-  },
-  {
-    "name": "Kasriel Isaacs",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Yud"
-    }
-  },
-  {
-    "name": "Shneor Israel",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Tes Vov"
-    }
-  },
-  {
-    "name": "Yosef Israel",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Daled"
-    }
-  },
-  {
-    "name": "Adam Itelman",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Vov",
-      "Shiur": "Shiur Gimmel"
-    }
-  },
-  {
-    "name": "Zalman Itkin",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Hey"
-    }
-  },
-  {
-    "name": "Itamar Janowski",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Hey",
-      "Shiur": "Shiur Alef"
-    }
-  },
-  {
-    "name": "Elon Kalmenson",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Daled"
-    }
-  },
-  {
-    "name": "Avremi Kaniel",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Tes"
-    }
-  },
-  {
-    "name": "Dovi Kastel",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Gimmel"
-    }
-  },
-  {
-    "name": "Ari Katan",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Vov"
-    }
-  },
-  {
-    "name": "Mendel Kessler",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Tes"
-    }
-  },
-  {
-    "name": "Schneur Kleinman",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Daled",
-      "Kevutza": "Hey"
-    }
-  },
-  {
-    "name": "Bentziyon Klioner",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Beis",
-      "Shiur": "Shiur Gimmel"
     }
   },
   {
@@ -917,166 +245,6 @@
     "selections": {
       "Bunk": "Gimmel",
       "Kevutza": "Alef"
-    }
-  },
-  {
-    "name": "Yosef Korik",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Yud"
-    }
-  },
-  {
-    "name": "Tzvi (Jojo) Kotlarsky",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Yud Beis"
-    }
-  },
-  {
-    "name": "Ephraim Kotlarsky",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Daled",
-      "Shiur": "Shiur Beis"
-    }
-  },
-  {
-    "name": "Zalman Kotlarsky",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Daled",
-      "Shiur": "Shiur Beis"
-    }
-  },
-  {
-    "name": "Leibel Kramer",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Zayin",
-      "Kevutza": "Vov"
-    }
-  },
-  {
-    "name": "Shlomo Kuraev",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Gimmel",
-      "Shiur": "Shiur Alef"
-    }
-  },
-  {
-    "name": "Eliahu Labkowski",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Alef",
-      "Kevutza": "Beis"
-    }
-  },
-  {
-    "name": "Emmanuel Laine",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Beis"
-    }
-  },
-  {
-    "name": "Yehuda (Dudi) Lancry",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Yud"
-    }
-  },
-  {
-    "name": "Tzvi Lehrer",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Beis",
-      "Shiur": "Shiur Alef"
-    }
-  },
-  {
-    "name": "Shalom Levin",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Yud Gimmel"
-    }
-  },
-  {
-    "name": "Menny Levin",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Shneur Levy",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Tes"
-    }
-  },
-  {
-    "name": "Meir Lichy",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Alef",
-      "Kevutza": "Zayin"
-    }
-  },
-  {
-    "name": "Moshe Lichy",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Alef"
-    }
-  },
-  {
-    "name": "Alter Lieberman",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Yud Beis"
-    }
-  },
-  {
-    "name": "Berel Lieberman",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Alef",
-      "Shiur": "Shiur Daled"
-    }
-  },
-  {
-    "name": "Mendel Lipskar",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
-      "Kevutza": "Zayin"
-    }
-  },
-  {
-    "name": "Mendel Lipskier",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Alef"
-    }
-  },
-  {
-    "name": "Dovi Lowenstein",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Beis",
-      "Kevutza": "Yud Daled"
     }
   },
   {
@@ -1096,6 +264,70 @@
     }
   },
   {
+    "name": "Netanel Aharon Negbi",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Gimmel",
+      "Kevutza": "Beis"
+    }
+  },
+  {
+    "name": "Choni Shagalov",
+    "grade": "3",
+    "selections": {
+      "Bunk": "Gimmel",
+      "Kevutza": "Beis"
+    }
+  },
+  {
+    "name": "Aaron Arnold",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Daled",
+      "Kevutza": "Daled"
+    }
+  },
+  {
+    "name": "Avraham Boyd",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Daled",
+      "Kevutza": "Hey"
+    }
+  },
+  {
+    "name": "Menachem Cohen",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Daled",
+      "Kevutza": "Daled"
+    }
+  },
+  {
+    "name": "Dovid Aryeh Drihem",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Daled",
+      "Kevutza": "Hey"
+    }
+  },
+  {
+    "name": "Nosson Grand",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Daled",
+      "Kevutza": "Hey"
+    }
+  },
+  {
+    "name": "Schneur Kleinman",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Daled",
+      "Kevutza": "Hey"
+    }
+  },
+  {
     "name": "Eli Marrus",
     "grade": "4",
     "selections": {
@@ -1104,7 +336,463 @@
     }
   },
   {
-    "name": "Ari Yitzhak Meyers",
+    "name": "Aharon Moshel",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Daled",
+      "Kevutza": "Zayin"
+    }
+  },
+  {
+    "name": "Yosef Netanel",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Daled",
+      "Kevutza": "Zayin"
+    }
+  },
+  {
+    "name": "Shalom Shlyapobersky",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Daled",
+      "Kevutza": "Zayin"
+    }
+  },
+  {
+    "name": "Lev Silberstein",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Daled",
+      "Kevutza": "Ches"
+    }
+  },
+  {
+    "name": "Lev Menachem Alexander Zacks",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Daled",
+      "Kevutza": "Ches"
+    }
+  },
+  {
+    "name": "Shalom Brusownakin",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Daled"
+    }
+  },
+  {
+    "name": "Aaron Greenwald",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Hey"
+    }
+  },
+  {
+    "name": "Eli Hazan",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Daled"
+    }
+  },
+  {
+    "name": "Zalman Itkin",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Hey"
+    }
+  },
+  {
+    "name": "Elon Kalmenson",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Daled"
+    }
+  },
+  {
+    "name": "Ari Katan",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Vov"
+    }
+  },
+  {
+    "name": "Moshe Lichy",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Zayin"
+    }
+  },
+  {
+    "name": "Benny Schiller",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Zayin"
+    }
+  },
+  {
+    "name": "Natan Segal",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Ches"
+    }
+  },
+  {
+    "name": "Shmuel Lieb Spalter",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Ches"
+    }
+  },
+  {
+    "name": "Gabriel Tsisin",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Ches"
+    }
+  },
+  {
+    "name": "Yosef Wasserman",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Ches"
+    }
+  },
+  {
+    "name": "Shneor Israel",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Daled"
+    }
+  },
+  {
+    "name": "Moshe Uriel Greenberg",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Ches"
+    }
+  },
+  {
+    "name": "Netanel Davidoff",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Hey",
+      "Kevutza": "Daled"
+    }
+  },
+  {
+    "name": "Ariel Abramowicz",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Vov"
+    }
+  },
+  {
+    "name": "Levi Baron",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Hey"
+    }
+  },
+  {
+    "name": "Mendel Begun",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Vov"
+    }
+  },
+  {
+    "name": "Dovi Biston",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Hey"
+    }
+  },
+  {
+    "name": "Ezzy Bronstein",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Vov"
+    }
+  },
+  {
+    "name": "Eli Cohen",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Vov"
+    }
+  },
+  {
+    "name": "Motti Fellig",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Daled"
+    }
+  },
+  {
+    "name": "Dovi Gutnick",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Vov"
+    }
+  },
+  {
+    "name": "Abi Hauck",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Vov"
+    }
+  },
+  {
+    "name": "Mendel Lipskar",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Zayin"
+    }
+  },
+  {
+    "name": "Yona Tabi",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Ches"
+    }
+  },
+  {
+    "name": "Aryeh Wolf",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Vov",
+      "Kevutza": "Ches"
+    }
+  },
+  {
+    "name": "Elchanan Ben Levy",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Zayin",
+      "Kevutza": "Daled"
+    }
+  },
+  {
+    "name": "Menny Epstein",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Zayin",
+      "Kevutza": "Hey"
+    }
+  },
+  {
+    "name": "Menny Fischweicher",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Zayin",
+      "Kevutza": "Vov"
+    }
+  },
+  {
+    "name": "Mendel Gopin",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Zayin",
+      "Kevutza": "Daled"
+    }
+  },
+  {
+    "name": "Leibel Kramer",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Zayin",
+      "Kevutza": "Vov"
+    }
+  },
+  {
+    "name": "Mendel Moscowitz",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Zayin",
+      "Kevutza": "Zayin"
+    }
+  },
+  {
+    "name": "Rafi Schrage",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Zayin",
+      "Kevutza": "Zayin"
+    }
+  },
+  {
+    "name": "Aizik Schwartz",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Zayin",
+      "Kevutza": "Zayin"
+    }
+  },
+  {
+    "name": "Immanuel Vogel",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Zayin",
+      "Kevutza": "Vov"
+    }
+  },
+  {
+    "name": "Zev Weingarten",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Zayin",
+      "Kevutza": "Zayin"
+    }
+  },
+  {
+    "name": "Aryeh Wolf (Lha)",
+    "grade": "4",
+    "selections": {
+      "Bunk": "Zayin",
+      "Kevutza": "Daled"
+    }
+  },
+  {
+    "name": "Chaim Bushman",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud Alef"
+    }
+  },
+  {
+    "name": "Levi Cagen",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "Eli Cattan",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud Beis"
+    }
+  },
+  {
+    "name": "Shua Horowitz",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "Yosef Korik",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud"
+    }
+  },
+  {
+    "name": "Tzvi (Jojo) Kotlarsky",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud Beis"
+    }
+  },
+  {
+    "name": "Sholom Moscowitz",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud Alef"
+    }
+  },
+  {
+    "name": "Shmuli Myhill",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Tes"
+    }
+  },
+  {
+    "name": "Menachem Mendel Rimler",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "Emmanuel Rouimi",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud Beis"
+    }
+  },
+  {
+    "name": "Yehonatan Yitzchak Ashkenazi",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Tes"
+    }
+  },
+  {
+    "name": "Ezra Goldblum",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud Alef"
+    }
+  },
+  {
+    "name": "Menny Weinbaum",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud Alef"
+    }
+  },
+  {
+    "name": "Elimelech Tamir",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Ches",
+      "Kevutza": "Yud Alef"
+    }
+  },
+  {
+    "name": "Yonatan Bolotin",
     "grade": "5",
     "selections": {
       "Bunk": "Tes",
@@ -1112,26 +800,90 @@
     }
   },
   {
-    "name": "David Milman",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Daled",
-      "Shiur": "Shiur Hei"
-    }
-  },
-  {
-    "name": "Matisyahu Mirise",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Hey",
-      "Shiur": "Shiur Beis"
-    }
-  },
-  {
-    "name": "Shneur Zalman Mizrachi",
+    "name": "Mendel Brooks",
     "grade": "5",
     "selections": {
-      "Bunk": "Yud",
+      "Bunk": "Tes",
+      "Kevutza": "Yud Alef"
+    }
+  },
+  {
+    "name": "Dovber Denburg",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Tes",
+      "Kevutza": "Yud"
+    }
+  },
+  {
+    "name": "Arik Fischweicher",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Tes",
+      "Kevutza": "Yud Beis"
+    }
+  },
+  {
+    "name": "Eli Goldberg",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Tes",
+      "Kevutza": "Yud"
+    }
+  },
+  {
+    "name": "Mordechai Gutman",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Tes",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "Mendy Gutnick",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Tes",
+      "Kevutza": "Yud"
+    }
+  },
+  {
+    "name": "Mendel Kessler",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Tes",
+      "Kevutza": "Tes"
+    }
+  },
+  {
+    "name": "Alter Lieberman",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Tes",
+      "Kevutza": "Yud Beis"
+    }
+  },
+  {
+    "name": "Isaac Sasonkin",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Tes",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "JJ Shur",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Tes",
+      "Kevutza": "Tes"
+    }
+  },
+  {
+    "name": "Eliezer Vasquez",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Tes",
       "Kevutza": "Yud Gimmel"
     }
   },
@@ -1144,115 +896,219 @@
     }
   },
   {
-    "name": "Dov Mochkin",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Yud Daled"
-    }
-  },
-  {
-    "name": "Yaakov Morris",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Gimmel"
-    }
-  },
-  {
-    "name": "Daniel Morris",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Tes Vov"
-    }
-  },
-  {
-    "name": "Mendel Moscowitz",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Zayin",
-      "Kevutza": "Zayin"
-    }
-  },
-  {
-    "name": "Sholom Moscowitz",
+    "name": "Dovid Ezagui",
     "grade": "5",
     "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Yud Alef"
-    }
-  },
-  {
-    "name": "Aharon Moshel",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Daled",
-      "Kevutza": "Zayin"
-    }
-  },
-  {
-    "name": "Shmuli Myhill",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Ches",
+      "Bunk": "Tes",
       "Kevutza": "Tes"
     }
   },
   {
-    "name": "Zecharia (Zac) Nagar",
-    "grade": "6",
+    "name": "Ari Yitzhak Meyers",
+    "grade": "5",
     "selections": {
-      "Bunk": "Yud Beis",
-      "Kevutza": "Tes Vov"
+      "Bunk": "Tes",
+      "Kevutza": "Yud Beis"
     }
   },
   {
-    "name": "Netanel Aharon Negbi",
-    "grade": "3",
+    "name": "Lev Belkin",
+    "grade": "5",
     "selections": {
-      "Bunk": "Gimmel",
-      "Kevutza": "Beis"
+      "Bunk": "Tes",
+      "Kevutza": "Yud Alef"
     }
   },
   {
-    "name": "Yosef Netanel",
-    "grade": "4",
+    "name": "Aharon Biston",
+    "grade": "5",
     "selections": {
-      "Bunk": "Daled",
-      "Kevutza": "Zayin"
+      "Bunk": "Tes",
+      "Kevutza": "Tes"
     }
   },
   {
-    "name": "Yisrael New",
-    "grade": "6",
+    "name": "Yosef Diaz",
+    "grade": "5",
     "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Tes Vov"
+      "Bunk": "Yud",
+      "Kevutza": "Yud Beis"
     }
   },
   {
-    "name": "Meir New",
-    "grade": "7",
+    "name": "Yaakov Duchman",
+    "grade": "5",
     "selections": {
-      "Kevutza": "Kevutza Hey",
-      "Shiur": "Shiur Gimmel"
+      "Bunk": "Yud",
+      "Kevutza": "Yud Alef"
     }
   },
   {
-    "name": "Levi Oirechman",
-    "grade": "7",
+    "name": "Yisroel Duchman",
+    "grade": "5",
     "selections": {
-      "Kevutza": "Kevutza Daled",
-      "Shiur": "Shiur Daled"
+      "Bunk": "Yud",
+      "Kevutza": "Yud Beis"
     }
   },
   {
-    "name": "Meir Rabinowitz",
-    "grade": "6",
+    "name": "Chaim Fellig",
+    "grade": "5",
     "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Yud Daled"
+      "Bunk": "Yud",
+      "Kevutza": "Tes"
+    }
+  },
+  {
+    "name": "David Shlomo Gershowitz",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud",
+      "Kevutza": "Yud Beis"
+    }
+  },
+  {
+    "name": "Calev Yehonosan Hertzel",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud",
+      "Kevutza": "Yud Alef"
+    }
+  },
+  {
+    "name": "Kasriel Isaacs",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud",
+      "Kevutza": "Yud"
+    }
+  },
+  {
+    "name": "Aaron Schiller",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "David Singer",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud",
+      "Kevutza": "Yud"
+    }
+  },
+  {
+    "name": "Yisroel Slavin",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud",
+      "Kevutza": "Yud Alef"
+    }
+  },
+  {
+    "name": "Isaac Vojdany",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud",
+      "Kevutza": "Tes"
+    }
+  },
+  {
+    "name": "Judah Wachtel",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud",
+      "Kevutza": "Yud"
+    }
+  },
+  {
+    "name": "Shneur Zalman Mizrachi",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "Eitan Bercovits",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud",
+      "Kevutza": "Yud"
+    }
+  },
+  {
+    "name": "Eliyahu Wachtel",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "Lior Eliyahu",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Yud"
+    }
+  },
+  {
+    "name": "Omer Aharon Ganon",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "Moshe Chaim Gershowitz",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "Yosef Aryeh Greenberg",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Tes"
+    }
+  },
+  {
+    "name": "Avremi Kaniel",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Tes"
+    }
+  },
+  {
+    "name": "Yehuda (Dudi) Lancry",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Yud"
+    }
+  },
+  {
+    "name": "Shalom Levin",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "Shneur Levy",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Tes"
     }
   },
   {
@@ -1260,7 +1116,7 @@
     "grade": "5",
     "selections": {
       "Bunk": "Yud Aleph",
-      "Kevutza": "Yud Beis"
+      "Kevutza": "Tes"
     }
   },
   {
@@ -1268,55 +1124,7 @@
     "grade": "5",
     "selections": {
       "Bunk": "Yud Aleph",
-      "Kevutza": "Tes"
-    }
-  },
-  {
-    "name": "Chezzy Raksin",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Beis",
-      "Shiur": "Shiur Beis"
-    }
-  },
-  {
-    "name": "Zevi Raksin",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Daled",
-      "Shiur": "Shiur Daled"
-    }
-  },
-  {
-    "name": "Moshe Reyder",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Alef",
-      "Kevutza": "Yud Gimmel"
-    }
-  },
-  {
-    "name": "Yakov Reyder",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Gimmel"
-    }
-  },
-  {
-    "name": "Gavriel Moshe Rich",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Yud Daled"
-    }
-  },
-  {
-    "name": "Menachem Mendel Rieger",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Alef",
-      "Kevutza": "Beis"
+      "Kevutza": "Yud Beis"
     }
   },
   {
@@ -1328,27 +1136,11 @@
     }
   },
   {
-    "name": "Menachem Mendel Rimler",
+    "name": "Dovi Uryash",
     "grade": "5",
     "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Yud Gimmel"
-    }
-  },
-  {
-    "name": "Azriel Rosenberger",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Shiur Gimmel"
-    }
-  },
-  {
-    "name": "Aryeh Rosenberger",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Daled",
-      "Shiur": "Yud Daled"
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Yud Beis"
     }
   },
   {
@@ -1357,6 +1149,334 @@
     "selections": {
       "Bunk": "Yud Aleph",
       "Kevutza": "Yud Alef"
+    }
+  },
+  {
+    "name": "Yakov Reyder",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Yud Gimmel"
+    }
+  },
+  {
+    "name": "Yosef Mordechai Erdvin",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Yud Alef"
+    }
+  },
+  {
+    "name": "Menachem Bassman",
+    "grade": "5",
+    "selections": {
+      "Bunk": "Yud Aleph",
+      "Kevutza": "Yud"
+    }
+  },
+  {
+    "name": "Baruch Binder",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Akiva Cotlar",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Yossi Cotlar",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Yud Daled"
+    }
+  },
+  {
+    "name": "Yankel Friedman",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Yossi Friedman",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Yankel Hodakov",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Dovi Lowenstein",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Yud Daled"
+    }
+  },
+  {
+    "name": "Zecharia (Zac) Nagar",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Saadya Sirota",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Yitzy Spiegel",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Kehos Weiss",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Peretz Hilel",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Beis",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Dov Mochkin",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Yud Daled"
+    }
+  },
+  {
+    "name": "Yossi Rubashkin",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Yud Daled"
+    }
+  },
+  {
+    "name": "Yakov Green",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Yud Daled"
+    }
+  },
+  {
+    "name": "Daniel Morris",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Yisrael New",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Meir Rabinowitz",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Yud Daled"
+    }
+  },
+  {
+    "name": "Michael Tal",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Shalom Yaakov Weic",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Ezzy Grand",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Moshe Gutnick",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Yuda Shagalov",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Mendel Gansburg",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Gimmel",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Moshe Mendel Feiner",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Daled",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Yosef Fellig",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Daled",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Ari Wheeler",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Daled",
+      "Kevutza": "Yud Daled"
+    }
+  },
+  {
+    "name": "Shmuel Holzkenner",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Daled",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Yosef Israel",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Daled",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Menny Levin",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Daled",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Meir Ainsworth",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Daled",
+      "Kevutza": "Yud Daled"
+    }
+  },
+  {
+    "name": "Dovi Rubenfeld",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Daled",
+      "Kevutza": "Tes Vov"
+    }
+  },
+  {
+    "name": "Elimelech Weiss",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Daled",
+      "Kevutza": "Yud Daled"
+    }
+  },
+  {
+    "name": "Dovi Schrage",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Daled",
+      "Kevutza": "Yud Daled"
+    }
+  },
+  {
+    "name": "Yaakov Tamir",
+    "grade": "6",
+    "selections": {
+      "Bunk": "Yud Daled",
+      "Kevutza": "Tes Zayin"
+    }
+  },
+  {
+    "name": "Yechezkel Brod",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Shiur Hey"
+    }
+  },
+  {
+    "name": "Aharon Bear Bushman",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Shiur Alef"
+    }
+  },
+  {
+    "name": "Berel Lieberman",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Shiur Daled"
     }
   },
   {
@@ -1376,43 +1496,259 @@
     }
   },
   {
-    "name": "Emmanuel Rouimi",
-    "grade": "5",
+    "name": "Shmuli Shahino",
+    "grade": "7",
     "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Yud Beis"
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Shiur Beis"
     }
   },
   {
-    "name": "Yossi Rubashkin",
-    "grade": "6",
+    "name": "Aaron Shuchat",
+    "grade": "7",
     "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Yud Daled"
+      "Kevutza": "Kevutza Alef",
+      "Shiur": "Shiur Daled"
     }
   },
   {
-    "name": "Dovi Rubenfeld",
-    "grade": "6",
+    "name": "Eitan Greenwald",
+    "grade": "7",
     "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Tes Vov"
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Alef"
     }
   },
   {
-    "name": "Isaac Sasonkin",
-    "grade": "5",
+    "name": "Yos Greenwald",
+    "grade": "7",
     "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Yud Gimmel"
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Daled"
     }
   },
   {
-    "name": "Mendel Schechter",
-    "grade": "3",
+    "name": "Noey Gutleizer",
+    "grade": "7",
     "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Beis"
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Hey"
+    }
+  },
+  {
+    "name": "Bentziyon Klioner",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Gimmel"
+    }
+  },
+  {
+    "name": "Tzvi Lehrer",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Alef"
+    }
+  },
+  {
+    "name": "Chezzy Raksin",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Beis"
+    }
+  },
+  {
+    "name": "Rafael Tsisin",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Gimmel"
+    }
+  },
+  {
+    "name": "Berechyahu Wachtel",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Hey"
+    }
+  },
+  {
+    "name": "Jake Bernard Wachtel",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Beis",
+      "Shiur": "Shiur Daled"
+    }
+  },
+  {
+    "name": "Zev Bronchtain",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Gimmel"
+    }
+  },
+  {
+    "name": "Raphael Simon De Haas",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Hey"
+    }
+  },
+  {
+    "name": "Zalman Eliav",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Alef"
+    }
+  },
+  {
+    "name": "Yakov Grossman",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Beis"
+    }
+  },
+  {
+    "name": "Shlomo Kuraev",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Alef"
+    }
+  },
+  {
+    "name": "Gavriel Slavin",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Daled"
+    }
+  },
+  {
+    "name": "Shimmy Waysman",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Gimmel",
+      "Shiur": "Shiur Hey"
+    }
+  },
+  {
+    "name": "Yehuda Biston",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Alef"
+    }
+  },
+  {
+    "name": "Mendy Friedman",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Gimmel"
+    }
+  },
+  {
+    "name": "Ephraim Kotlarsky",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Beis"
+    }
+  },
+  {
+    "name": "Zalman Kotlarsky",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Beis"
+    }
+  },
+  {
+    "name": "David Milman",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Hey"
+    }
+  },
+  {
+    "name": "Levi Oirechman",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Daled"
+    }
+  },
+  {
+    "name": "Zevi Raksin",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Daled"
+    }
+  },
+  {
+    "name": "Aryeh Rosenberger",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Daled",
+      "Shiur": "Shiur Gimmel"
+    }
+  },
+  {
+    "name": "Shaya Brashevitzky",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Alef"
+    }
+  },
+  {
+    "name": "Sholom Davidson",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Daled"
+    }
+  },
+  {
+    "name": "Shimmy Gutnick",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Hey"
+    }
+  },
+  {
+    "name": "Itamar Janowski",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Alef"
+    }
+  },
+  {
+    "name": "Matisyahu Mirise",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Beis"
+    }
+  },
+  {
+    "name": "Meir New",
+    "grade": "7",
+    "selections": {
+      "Kevutza": "Kevutza Hey",
+      "Shiur": "Shiur Gimmel"
     }
   },
   {
@@ -1424,275 +1760,11 @@
     }
   },
   {
-    "name": "Benny Schiller",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Yud Gimmel"
-    }
-  },
-  {
-    "name": "Aaron Schiller",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Zayin"
-    }
-  },
-  {
     "name": "Yoel Schochet",
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Hey",
-      "Shiur": "Shiur Hei"
-    }
-  },
-  {
-    "name": "Rafi Schrage",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Zayin",
-      "Kevutza": "Zayin"
-    }
-  },
-  {
-    "name": "Dovi Schrage",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Yud Daled"
-    }
-  },
-  {
-    "name": "Eliezer Schurder",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Alef",
-      "Shiur": "Zayin"
-    }
-  },
-  {
-    "name": "Mendel Schwartz",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Beis"
-    }
-  },
-  {
-    "name": "Aizik Schwartz",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Zayin",
-      "Kevutza": "Ches"
-    }
-  },
-  {
-    "name": "Natan Segal",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Beis"
-    }
-  },
-  {
-    "name": "Choni Shagalov",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Gimmel",
-      "Kevutza": "Tes Vov"
-    }
-  },
-  {
-    "name": "Yuda Shagalov",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Shiur Beis"
-    }
-  },
-  {
-    "name": "Shmuli Shahino",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Alef",
-      "Shiur": "Alef"
-    }
-  },
-  {
-    "name": "Leibu Shemtov",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Alef",
-      "Kevutza": "Zayin"
-    }
-  },
-  {
-    "name": "Shalom Shlyapobersky",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Daled",
-      "Kevutza": "Shiur Daled"
-    }
-  },
-  {
-    "name": "Aaron Shuchat",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Alef",
-      "Shiur": "Tes"
-    }
-  },
-  {
-    "name": "JJ Shur",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Ches"
-    }
-  },
-  {
-    "name": "Lev Silberstein",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Daled",
-      "Kevutza": "Yud"
-    }
-  },
-  {
-    "name": "David Singer",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Saadya Sirota",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Beis",
-      "Kevutza": "Yud Alef"
-    }
-  },
-  {
-    "name": "Yisroel Slavin",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Shiur Daled"
-    }
-  },
-  {
-    "name": "Gavriel Slavin",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Gimmel",
-      "Shiur": "Gimmel"
-    }
-  },
-  {
-    "name": "Motti Sossonko",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Alef"
-    }
-  },
-  {
-    "name": "Zalman Sossonko",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Ches"
-    }
-  },
-  {
-    "name": "Shmuel Lieb Spalter",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Tes Vov"
-    }
-  },
-  {
-    "name": "Yitzy Spiegel",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Beis",
-      "Kevutza": "Ches"
-    }
-  },
-  {
-    "name": "Yona Tabi",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Michael Tal",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Yud Alef"
-    }
-  },
-  {
-    "name": "Elimelech Tamir",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Tes Zayin"
-    }
-  },
-  {
-    "name": "Yaakov Tamir",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Alef"
-    }
-  },
-  {
-    "name": "Shneur Tennenhaus",
-    "grade": "3",
-    "selections": {
-      "Bunk": "Beis",
-      "Kevutza": "Ches"
-    }
-  },
-  {
-    "name": "Gabriel Tsisin",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Shiur Gimmel"
-    }
-  },
-  {
-    "name": "Rafael Tsisin",
-    "grade": "7",
-    "selections": {
-      "Kevutza": "Kevutza Beis",
-      "Shiur": "Yud Beis"
-    }
-  },
-  {
-    "name": "Dovi Uryash",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud Aleph",
-      "Kevutza": "Yud Gimmel"
-    }
-  },
-  {
-    "name": "Eliezer Vasquez",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Tes",
-      "Kevutza": "Shiur Beis"
+      "Shiur": "Shiur Hey"
     }
   },
   {
@@ -1700,127 +1772,55 @@
     "grade": "7",
     "selections": {
       "Kevutza": "Kevutza Vov",
-      "Shiur": "Vov"
+      "Shiur": "Shiur Beis"
     }
   },
   {
-    "name": "Immanuel Vogel",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Zayin",
-      "Kevutza": "Tes"
-    }
-  },
-  {
-    "name": "Isaac Vojdany",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Yud Gimmel"
-    }
-  },
-  {
-    "name": "Judah Wachtel",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Yud"
-    }
-  },
-  {
-    "name": "Eliyahu Wachtel",
-    "grade": "5",
-    "selections": {
-      "Bunk": "Yud",
-      "Kevutza": "Shiur Daled"
-    }
-  },
-  {
-    "name": "Berechyahu Wachtel",
+    "name": "Maor Garcia",
     "grade": "7",
     "selections": {
-      "Kevutza": "Kevutza Beis",
-      "Shiur": "Shiur Hei"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Shiur Gimmel"
     }
   },
   {
-    "name": "Yosef Wasserman",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Hey",
-      "Kevutza": "Ches"
-    }
-  },
-  {
-    "name": "Shimmy Waysman",
+    "name": "Adam Itelman",
     "grade": "7",
     "selections": {
-      "Kevutza": "Kevutza Gimmel",
-      "Shiur": "Shiur Hei"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Shiur Gimmel"
     }
   },
   {
-    "name": "Yitzchok Dovid Weic",
-    "grade": "3",
+    "name": "Shneur Zalman Zelman",
+    "grade": "7",
     "selections": {
-      "Bunk": "Alef",
-      "Kevutza": "Tes Vov"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Shiur Beis"
     }
   },
   {
-    "name": "Shalom Yaakov Weic",
-    "grade": "6",
+    "name": "Menachem Goodman",
+    "grade": "7",
     "selections": {
-      "Bunk": "Yud Gimmel",
-      "Kevutza": "Alef"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Shiur Hey"
     }
   },
   {
-    "name": "Menny Weinbaum",
-    "grade": "5",
+    "name": "Zalman Feldman",
+    "grade": "7",
     "selections": {
-      "Bunk": "Ches",
-      "Kevutza": "Yud Alef"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Shiur Alef"
     }
   },
   {
-    "name": "Zev Weingarten",
-    "grade": "4",
+    "name": "Mendel Feldman",
+    "grade": "7",
     "selections": {
-      "Bunk": "Zayin",
-      "Kevutza": "Zayin"
-    }
-  },
-  {
-    "name": "Kehos Weiss",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Beis",
-      "Kevutza": "Tes Vov"
-    }
-  },
-  {
-    "name": "Elimelech Weiss",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Yud Daled"
-    }
-  },
-  {
-    "name": "Ari Wheeler",
-    "grade": "6",
-    "selections": {
-      "Bunk": "Yud Daled",
-      "Kevutza": "Yud Daled"
-    }
-  },
-  {
-    "name": "Aryeh Wolf",
-    "grade": "4",
-    "selections": {
-      "Bunk": "Vov",
-      "Kevutza": "Ches"
+      "Kevutza": "Kevutza Vov",
+      "Shiur": "Shiur Daled"
     }
   }
 ]
