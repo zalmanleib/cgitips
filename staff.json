@@ -1,5 +1,5 @@
 {
-  "3": {
+  "3rd Grade": {
     "Bunk": {
       "Bunk Alef": [
         {
@@ -58,7 +58,7 @@
         }
       ]
     },
-    "Learning Class": {
+    "Kevutza": {
       "Kevutza Alef": [
         {
           "name": "Leibel Kahan",
@@ -149,7 +149,7 @@
       ]
     }
   },
-  "4": {
+  "4th Grade": {
     "Bunk": {
       "Bunk Daled": [
         {
@@ -224,7 +224,7 @@
         }
       ]
     },
-    "Learning Class": {
+    "Kevutza": {
       "Kevutza Daled": [
         {
           "name": "Sholom Wolowik",
@@ -337,7 +337,7 @@
       ]
     }
   },
-  "5": {
+  "5th Grade": {
     "Bunk": {
       "Bunk Ches": [
         {
@@ -410,7 +410,7 @@
         }
       ]
     },
-    "Learning Class": {
+    "Kevutza": {
       "Kevutza Tes": [
         {
           "name": "Mendel Mishuluven",
@@ -528,7 +528,7 @@
       ]
     }
   },
-  "6": {
+  "6th Grade": {
     "Bunk": {
       "Bunk Yud Beis": [
         {
@@ -584,7 +584,7 @@
         }
       ]
     },
-    "Learning Class": {
+    "Kevutza": {
       "Kevutza Yud Daled": [
         {
           "name": "Yoav Cooper",
@@ -669,7 +669,7 @@
       ]
     }
   },
-  "7": {
+  "Temimim": {
     "Kevutza": {
       "Kevutza Alef": [
         {
