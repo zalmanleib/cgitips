@@ -1,5 +1,5 @@
 {
-  "3rd Grade": {
+  "3": {
     "Bunk": {
       "Bunk Alef": [
         {
@@ -124,9 +124,7 @@
           }
         }
       ]
-    }
-  },
-  "3rd Garde": {
+    },
     "EMT": {
       "EMT": [
         {
@@ -149,7 +147,7 @@
       ]
     }
   },
-  "4th Grade": {
+  "4": {
     "Bunk": {
       "Bunk Daled": [
         {
@@ -337,7 +335,7 @@
       ]
     }
   },
-  "5th Grade": {
+  "5": {
     "Bunk": {
       "Bunk Ches": [
         {
@@ -528,7 +526,7 @@
       ]
     }
   },
-  "6th Grade": {
+  "6": {
     "Bunk": {
       "Bunk Yud Beis": [
         {
@@ -669,7 +667,7 @@
       ]
     }
   },
-  "Temimim": {
+  "7": {
     "Kevutza": {
       "Kevutza Alef": [
         {
